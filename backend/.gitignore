@@ -1,0 +1,10 @@
+pip install fastapi uvicorn openai python-dotenv
+venv/
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
