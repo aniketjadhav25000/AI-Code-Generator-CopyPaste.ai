@@ -91,4 +91,4 @@ Just fork the repo, create a branch, and open a pull request.
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Aniket Jadhav]
